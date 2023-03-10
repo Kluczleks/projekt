@@ -1,0 +1,14 @@
+#lewy{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    font-size: 60px;
+    float: left;
+}
+#prawy{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    font-size: 60px;
+    float: left;
+}
