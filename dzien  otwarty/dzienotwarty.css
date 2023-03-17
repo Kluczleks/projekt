@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+
+}
+div#container{
+    background-color: blue 0,119,161;
+}
+body {
+    font-family: "Lato", sans-serif;
+    color: #03295a;
+    margin: 0;
+    background-color: blue 0,119,161;
+}
+div#atrakcje{
+    background-color: blue 0,119,161;
+}
+h1 {
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 4rem;
+    margin-bottom: 0;
+    background-color: red;
+    margin: 0;
+}
+h2{
+    width: 100%;
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 6rem;
+    margin: 0;
+    background-image: linear-gradient(rgb(0, 4, 255), rgb(255, 51, 0));
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+margin: 0;
+background-color: rgb(0, 119, 161);
+color: white;
+}
+li{
+text-align: center;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 2rem;
+    list-style-type: none;  
+}
+#logo{
+    display: flex;
+}
+footer{
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 6rem;
+    background-color: rgb(255, 0, 0);
+    margin-bottom: auto;
+    bottom: auto;
+}
